@@ -1,0 +1,1 @@
+ls -l -G -p / | less
